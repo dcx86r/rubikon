@@ -22,4 +22,5 @@ For inactive workspaces, use the XBM icon in the icons directory.
 - Mount a tmpfs directory for icon storage
 
 - On workspace changes, run command to update icon - `rubikongen > /tmp/rubik.xpm`
-  - [example](https://) using herbstluftwm hooks to watch for events
+  - *Tip:* Use WM hooks to watch for workspace events
+
